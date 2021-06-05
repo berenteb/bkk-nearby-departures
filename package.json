@@ -1,7 +1,7 @@
 {
-  "name": "bkk-departure-display",
+  "name": "indulasch",
   "version": "1.9.0",
-  "description": "",
+  "description": "Minimalist departure display for BKK.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
